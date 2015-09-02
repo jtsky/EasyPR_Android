@@ -1,0 +1,2 @@
+# EasyPR_Android
+基于OpenCV的汽车牌照识别 采用androidStudio构建
